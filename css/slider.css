@@ -37,7 +37,7 @@
 }
 
 .game-provider-slider>button {
-    color: #2A0944;
+    color: #e53dca;
     display: flex;
     align-items: center;
     padding: 0 15px;
@@ -47,7 +47,7 @@
 }
 
 .game-provider-slider>button:hover {
-    background-color: #2A0944;
+    background-color: #bc1536;
 }
 
 @media (max-width: 992px) {
