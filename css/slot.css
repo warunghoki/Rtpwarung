@@ -8,12 +8,11 @@ p {
 }
 
 body {
-    background: #2B7A0B;
+  background-image: url("https://i.ibb.co/5vjxpPZ/wall.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: top center;
-    background-size: contain;
-    background-size: 100%;
+    background-size: cover;
+
 }
 
 a:hover {
